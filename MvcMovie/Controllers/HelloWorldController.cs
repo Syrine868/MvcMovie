@@ -13,6 +13,7 @@ namespace MvcMovie.Controllers
             return "This is my <b>default</b> action...";
         }
         // GET: /HelloWorld/Welcome/
+        [Route("WelcomeYou/{name}/{numTimes:int}")]
         public string Welcome(string name, int ID = 1)
         {
             return HttpUtility.HtmlEncode("Hello " + name + ", ID: " + ID);
