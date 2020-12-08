@@ -1,16 +1,17 @@
+C:\Users\PC\source\repos\MvcMovie\MvcMovie\bin\roslyn\csc.exe
+C:\Users\PC\source\repos\MvcMovie\MvcMovie\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PC\source\repos\MvcMovie\MvcMovie\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\PC\source\repos\MvcMovie\MvcMovie\bin\roslyn\System.IO.Compression.dll
 C:\Users\PC\source\repos\MvcMovie\MvcMovie\bin\MvcMovie.dll.config
 C:\Users\PC\source\repos\MvcMovie\MvcMovie\bin\MvcMovie.dll
 C:\Users\PC\source\repos\MvcMovie\MvcMovie\bin\MvcMovie.pdb
-C:\Users\PC\source\repos\MvcMovie\MvcMovie\bin\roslyn\csc.exe
 C:\Users\PC\source\repos\MvcMovie\MvcMovie\bin\roslyn\csc.exe.config
 C:\Users\PC\source\repos\MvcMovie\MvcMovie\bin\roslyn\csc.rsp
 C:\Users\PC\source\repos\MvcMovie\MvcMovie\bin\roslyn\csi.exe
 C:\Users\PC\source\repos\MvcMovie\MvcMovie\bin\roslyn\csi.exe.config
 C:\Users\PC\source\repos\MvcMovie\MvcMovie\bin\roslyn\csi.rsp
 C:\Users\PC\source\repos\MvcMovie\MvcMovie\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-C:\Users\PC\source\repos\MvcMovie\MvcMovie\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
 C:\Users\PC\source\repos\MvcMovie\MvcMovie\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
-C:\Users\PC\source\repos\MvcMovie\MvcMovie\bin\roslyn\Microsoft.CodeAnalysis.dll
 C:\Users\PC\source\repos\MvcMovie\MvcMovie\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
 C:\Users\PC\source\repos\MvcMovie\MvcMovie\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
 C:\Users\PC\source\repos\MvcMovie\MvcMovie\bin\roslyn\Microsoft.CSharp.Core.targets
@@ -26,7 +27,6 @@ C:\Users\PC\source\repos\MvcMovie\MvcMovie\bin\roslyn\System.Diagnostics.Diagnos
 C:\Users\PC\source\repos\MvcMovie\MvcMovie\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
 C:\Users\PC\source\repos\MvcMovie\MvcMovie\bin\roslyn\System.Diagnostics.StackTrace.dll
 C:\Users\PC\source\repos\MvcMovie\MvcMovie\bin\roslyn\System.Globalization.Calendars.dll
-C:\Users\PC\source\repos\MvcMovie\MvcMovie\bin\roslyn\System.IO.Compression.dll
 C:\Users\PC\source\repos\MvcMovie\MvcMovie\bin\roslyn\System.IO.Compression.ZipFile.dll
 C:\Users\PC\source\repos\MvcMovie\MvcMovie\bin\roslyn\System.IO.FileSystem.dll
 C:\Users\PC\source\repos\MvcMovie\MvcMovie\bin\roslyn\System.IO.FileSystem.Primitives.dll
@@ -79,7 +79,6 @@ C:\Users\PC\source\repos\MvcMovie\MvcMovie\bin\fr\System.Web.Razor.resources.dll
 C:\Users\PC\source\repos\MvcMovie\MvcMovie\bin\fr\System.Web.WebPages.resources.dll
 C:\Users\PC\source\repos\MvcMovie\MvcMovie\bin\fr\System.Web.WebPages.Deployment.resources.dll
 C:\Users\PC\source\repos\MvcMovie\MvcMovie\bin\fr\System.Web.WebPages.Razor.resources.dll
-C:\Users\PC\source\repos\MvcMovie\MvcMovie\obj\Debug\MvcMovie.csprojAssemblyReference.cache
 C:\Users\PC\source\repos\MvcMovie\MvcMovie\obj\Debug\MvcMovie.csproj.CoreCompileInputs.cache
 C:\Users\PC\source\repos\MvcMovie\MvcMovie\obj\Debug\MvcMovie.csproj.CopyComplete
 C:\Users\PC\source\repos\MvcMovie\MvcMovie\obj\Debug\MvcMovie.dll
