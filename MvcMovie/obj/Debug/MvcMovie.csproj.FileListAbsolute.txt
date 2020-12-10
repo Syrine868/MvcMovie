@@ -83,3 +83,4 @@ C:\Users\PC\source\repos\MvcMovie\MvcMovie\obj\Debug\MvcMovie.csproj.CoreCompile
 C:\Users\PC\source\repos\MvcMovie\MvcMovie\obj\Debug\MvcMovie.csproj.CopyComplete
 C:\Users\PC\source\repos\MvcMovie\MvcMovie\obj\Debug\MvcMovie.dll
 C:\Users\PC\source\repos\MvcMovie\MvcMovie\obj\Debug\MvcMovie.pdb
+C:\Users\PC\source\repos\MvcMovie\MvcMovie\obj\Debug\MvcMovie.csprojAssemblyReference.cache

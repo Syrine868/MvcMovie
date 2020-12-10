@@ -44,18 +44,14 @@ namespace MvcMovie.Controllers
         [ValidateAntiForgeryToken]
         public ActionResult Create(Movie m)
         {
-            if (ModelState.IsValid)
+            List<Movie> movies = Session["movies"] as List<Movie>;
+            if (movies == null)
             {
-                List<Movie> movies = Session["movies"] as List<Movie>;
-                if (movies == null)
-                {
-                    movies = new List<Movie>();
-                }
-                movies.Add(m);
-                return RedirectToAction("Index");
+                movies = new List<Movie>();
             }
-            return View(m);
-
+            movies.Add(m);
+            Session["movies"] = movies;
+            return RedirectToAction("Index");
         }
 
         // GET: Movie/Edit/5
